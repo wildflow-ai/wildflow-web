@@ -8,7 +8,7 @@
 ## 终端 A：启动后端
 
 在 `wildflow-api` 的 Git 根打开一个终端，按
-[后端 DEV.md](https://github.com/wildsyn/wildflow-api/blob/main/DEV.md#本地启动) 启动 API，保持进程运行。
+[后端 DEV.md](https://github.com/wildflow-ai/wildflow-api/blob/main/DEV.md#本地启动) 启动 API，保持进程运行。
 默认后端地址为 `http://localhost:3000`；使用其他开发地址时，在前端设置下方代理变量。
 
 ## 终端 B：启动前端

@@ -118,7 +118,7 @@ function EmptyAboutState() {
           <ul className='mt-5 space-y-4'>
             <li>
               <a
-                href='https://github.com/wildsyn/wildflow-web'
+                href='https://github.com/wildflow-ai/wildflow-web'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='text-primary font-medium hover:underline'
@@ -132,7 +132,7 @@ function EmptyAboutState() {
             </li>
             <li>
               <a
-                href='https://github.com/wildsyn/wildflow-api'
+                href='https://github.com/wildflow-ai/wildflow-api'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='text-primary font-medium hover:underline'

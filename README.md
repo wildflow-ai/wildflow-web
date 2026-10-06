@@ -4,11 +4,11 @@
 [![Upstream: New API](https://img.shields.io/badge/Upstream-QuantumNous%2Fnew--api-6f42c1.svg)](https://github.com/QuantumNous/new-api)
 
 WildFlow Web 是野生流动的开源 Web 前端，承载官网、模型目录、开发者控制台和 Harness 入口。
-它与 [WildFlow API](https://github.com/wildsyn/wildflow-api) 分离构建和部署，通过同源 `/api/*`
+它与 [WildFlow API](https://github.com/wildflow-ai/wildflow-api) 分离构建和部署，通过同源 `/api/*`
 路由访问公开控制面。
 
 [野生流动官网](https://wildflow.cn) · [开发者文档](https://docs.wildflow.cn/docs) ·
-[后端源码](https://github.com/wildsyn/wildflow-api)
+[后端源码](https://github.com/wildflow-ai/wildflow-api)
 
 > **上游与署名**
 >
@@ -33,7 +33,7 @@ WildFlow Web 是野生流动的开源 Web 前端，承载官网、模型目录�
 
 相关仓库：
 
-- [wildflow-api](https://github.com/wildsyn/wildflow-api)：用户、Key、价格、余额、账单和公共 API；
+- [wildflow-api](https://github.com/wildflow-ai/wildflow-api)：用户、Key、价格、余额、账单和公共 API；
 - `wildflow-inference`：私有推理执行面，不在本公开仓库中分发；
 - WildFlow 内部主仓：品牌、跨仓契约与产品治理。
 

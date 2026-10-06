@@ -40,9 +40,9 @@ describe('WildFlow About content', () => {
 
   test('lists the public Web and API repositories with clear ownership', () => {
     assert.match(aboutSource, /Open-source projects/)
-    assert.match(aboutSource, /github\.com\/wildsyn\/wildflow-web/)
+    assert.match(aboutSource, /github\.com\/wildflow-ai\/wildflow-web/)
     assert.match(aboutSource, /Frontend, Model Square, and Console/)
-    assert.match(aboutSource, /github\.com\/wildsyn\/wildflow-api/)
+    assert.match(aboutSource, /github\.com\/wildflow-ai\/wildflow-api/)
     assert.match(aboutSource, /Public API and commercial control plane/)
     assert.match(aboutSource, /LICENSE, NOTICE, and repository documentation/)
     assert.doesNotMatch(aboutSource, /WildFlow source repository:/)
