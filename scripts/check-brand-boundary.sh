@@ -26,7 +26,7 @@ if rg -n 'docs\.newapi\.pro|ccswitch\.io|cherry-ai\.com' \
   exit 1
 fi
 
-grep -Fq "https://github.com/wildsyn/wildflow-web" src/features/about/index.tsx || {
+grep -Fq "https://github.com/wildflow-ai/wildflow-web" src/features/about/index.tsx || {
   echo 'the About fallback does not identify the WildFlow source repository' >&2
   exit 1
 }

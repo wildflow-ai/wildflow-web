@@ -5,7 +5,7 @@ export const WILDFLOW_PRODUCT = {
   englishName: 'WildFlow',
   version: '1.0',
   docsUrl: 'https://docs.wildflow.cn',
-  sourceUrl: 'https://github.com/wildsyn/wildflow-web',
+  sourceUrl: 'https://github.com/wildflow-ai/wildflow-web',
   upstreamUrl: 'https://github.com/QuantumNous/new-api',
 } as const
 
